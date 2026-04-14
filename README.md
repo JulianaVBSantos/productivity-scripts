@@ -1,124 +1,82 @@
-\## Sobre o projeto
+## Sobre o projeto
 
+Este repositório reúne ferramentas e scripts desenvolvidos durante minha experiência profissional, com o objetivo de automatizar tarefas operacionais e otimizar processos internos.
 
-
-Este repositório reúne ferramentas e scripts desenvolvidos durante minha experiência profissional com o objetivo de automatizar tarefas operacionais e otimizar processos internos.
-
-
-
-As soluções foram criadas para lidar com demandas reais do setor, principalmente relacionadas à gestão de usuários, acessos e execução de tarefas repetitivas em sistemas corporativos.
-
-
-
-\## Funcionalidades
-
-\### Programas Principais
-
-
-* Criação de usuários
-* Automação da criação de acessos em diferentes sistemas a partir de arquivos .csv, reduzindo significativamente o trabalho manual.
-* Revogação de acessos
-* Remoção automatizada de usuários em múltiplos sistemas, garantindo agilidade e padronização no processo.
-* Automação de tarefas (AutoClick)
-* Scripts que simulam interações no sistema (cliques e ações repetitivas), utilizados para:
-
-\-- Alteração de grupos de usuários
--- Inserção de dados em sistemas
-
-\-- Execução de rotinas operacionais
-
+As soluções foram criadas para atender demandas reais do setor, principalmente relacionadas à gestão de usuários, acessos e execução de tarefas repetitivas em sistemas corporativos.
 
 ---
 
+## Funcionalidades
+
+### Programas Principais
+
+- **Criação de usuários**  
+Automação da criação de acessos em diferentes sistemas a partir de arquivos `.csv`, reduzindo significativamente o trabalho manual.
+
+- **Revogação de acessos**  
+Remoção automatizada de usuários em múltiplos sistemas, garantindo agilidade e padronização no processo.
+
+- **Automação de tarefas (AutoClick)**  
+Scripts que simulam interações no sistema (cliques e ações repetitivas), utilizados para:
+  - Alteração de grupos de usuários  
+  - Inserção de dados em sistemas  
+  - Execução de rotinas operacionais  
+
+---
 
 ### Programas Auxiliares
 
+- **Comparador de dados**  
+Identifica diferenças entre listas de usuários, incluindo:
+  - Registros encontrados  
+  - Registros não encontrados  
+  - Divergências entre bases  
 
-* Comparador de dados
+- **Gerador de logins**  
+Criação automática de logins a partir de listas de nomes.
 
-&#x20;  Identifica diferenças entre listas de usuários, incluindo:
+- **Gerador de senhas**  
+Geração automatizada de senhas para usuários.
 
-\-- Registros encontrados
+- **Manipulação de arquivos**  
+Leitura, escrita e tratamento de arquivos `.txt` e `.csv`.
 
-\-- Registros não encontrados
--- Divergências entre bases
+- **Utilitários diversos**  
+Ferramentas auxiliares para testes e automações específicas.
 
-* Gerador de logins
-* Criação automática de logins a partir de listas de nomes.
-* Gerador de senhas
-* Geração automatizada de senhas para usuários.
-* Manipulação de arquivos
-* Leitura, escrita e tratamento de arquivos .txt e .csv.
-* Utilitários diversos
-* Ferramentas auxiliares para testes e automações específicas.
+---
 
+## Tecnologias utilizadas
 
+- Linguagem C  
+- Python  
+- Manipulação de arquivos CSV e TXT  
+- Scripts de automação  
+- Interface via linha de comando (CLI)  
 
-\---
-
-
-
-\## Tecnologias utilizadas
-
-
-
-\-- Linguagem C
-
-\-- Python
-
-\-- Manipulação de arquivos CSV e TXT
-
-\-- Scripts de automação
-
-\-- Interface via linha de comando (CLI)
-
-
-\---
-
+---
 
 ## Contexto de uso
 
-
-
 As ferramentas foram desenvolvidas para atender demandas reais em ambiente corporativo, com foco em:
 
+- Redução de tarefas repetitivas  
+- Aumento de produtividade  
+- Padronização de processos  
+- Minimização de erros humanos  
 
-
-Redução de tarefas repetitivas
-
-Aumento de produtividade
-
-Padronização de processos
-
-Minimização de erros humanos
-
-
-
-\---
+---
 
 ## Observações
 
-
-
 Este repositório contém versões adaptadas dos programas desenvolvidos, sem qualquer informação sensível ou dados da empresa.
 
+---
 
-
-\---
-
-
-
-\## Licença
-
-
+## 🚫 Licença
 
 Este repositório não possui uma licença de uso definida.
 
-
-
 Dessa forma, o código-fonte aqui disponibilizado destina-se exclusivamente à visualização e análise, não sendo autorizados o uso, a reprodução, a modificação ou a distribuição, total ou parcial, sem a prévia e expressa autorização do autor.
 
-
-
 Para solicitações de uso, entre em contato.
-
