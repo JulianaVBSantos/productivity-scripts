@@ -1,3 +1,5 @@
+//revogar acesso no IAS
+
 #include <windows.h>
 #include <stdio.h>
 #include <string.h>
@@ -48,7 +50,7 @@ int main() {
         }
     }
 
-    FILE* arquivo = fopen("usuariospendentescallcenter.txt", "r");
+    FILE* arquivo = fopen("usuarios.txt", "r");
     if (!arquivo) {
         printf("Erro ao abrir o arquivo.\n");
         return 1;

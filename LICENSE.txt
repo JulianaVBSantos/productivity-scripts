@@ -1,0 +1,7 @@
+Copyright (c) 2026 Juliana Vieira B. Santos
+
+Todos os direitos reservados.
+
+Este software é de propriedade da autora e não pode ser utilizado, copiado, modificado ou distribuído sem autorização prévia.
+
+O código é disponibilizado apenas para fins acadêmicos e de avaliação.
