@@ -24,28 +24,6 @@ Scripts que simulam interações no sistema (cliques e ações repetitivas), uti
 
 ---
 
-### Programas Auxiliares
-
-- **Comparador de dados**  
-Identifica diferenças entre listas de usuários, incluindo:
-  - Registros encontrados  
-  - Registros não encontrados  
-  - Divergências entre bases  
-
-- **Gerador de logins**  
-Criação automática de logins a partir de listas de nomes.
-
-- **Gerador de senhas**  
-Geração automatizada de senhas para usuários.
-
-- **Manipulação de arquivos**  
-Leitura, escrita e tratamento de arquivos `.txt` e `.csv`.
-
-- **Utilitários diversos**  
-Ferramentas auxiliares para testes e automações específicas.
-
----
-
 ## Tecnologias utilizadas
 
 - Linguagem C  
